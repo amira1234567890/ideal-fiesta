@@ -22,6 +22,7 @@ namespace WindowsFormsApp2
             //Git Changes 
             //status bar
             //Git menu
+            //Git Repository windows
         }
     }
 }
